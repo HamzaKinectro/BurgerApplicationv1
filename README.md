@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Below you will find some information on how to perform basic react tasks.<br>
 
-##How to use the downloaded files
+## How to use the downloaded files
 
 1. Run "npm install" in the extracted folder
 2. Run "npm start" to view the project
